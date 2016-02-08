@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignIn</string>
+    <string name="app_signin">SignIn</string>
+    <string name="app_signout">SignOut</string>
+</resources>
